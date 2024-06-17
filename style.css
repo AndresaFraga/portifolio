@@ -488,16 +488,11 @@ footer .line-footer p a {
         padding: 40px 8%;
     }
 
-    .topo-do-site h1 {
-        font-size: 11px
-    }
-
     .menu-desktop a{
         display: inline-block ;
         font-size: 13px;
     }
     .menu-desktop ul li {
-        display: inline-block;
         padding:  10px;
     }
     .logo img{
