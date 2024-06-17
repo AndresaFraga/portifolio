@@ -538,7 +538,7 @@ footer .line-footer p a {
         max-height: 100%;
     }
     /* CURRICULO */
-    section.portfolio {
+    section.curriculo {
         padding: 80px 8%;
     }
 
@@ -547,7 +547,7 @@ footer .line-footer p a {
         margin: 0 auto;
     }
     
-    section.portfolio .flex {
+    section.curriculo .flex {
        gap: 60px;
     }
 
