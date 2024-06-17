@@ -451,7 +451,7 @@ footer .line-footer p a {
 
     /* CLASSES GERAIS */
     .flex {
-        flex-direction: column;
+        flex-direction: center;
         align-items: center;
     }
 
