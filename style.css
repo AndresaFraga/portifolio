@@ -562,7 +562,7 @@ footer .line-footer p a {
         text-align: center;
     }
 }
-@media(max-width: 467px){
+@media(max-width: 480px){
 
     .menu-desktop ul li {
     display: inline-block;
