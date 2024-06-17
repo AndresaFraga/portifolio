@@ -41,7 +41,7 @@ form .btn-enviar input:hover {
 
 /* ESTILO DO CABEÇALHO */
 header {
-    padding: 40px 4%;
+    padding: 1em;
 }
 
 header>.interface {
@@ -74,7 +74,7 @@ header nav.menu-desktop ul li {
 
 /* ESTILO DO TOPO DO SITE */
 section.topo-do-site {
-    padding: 40px 4%;
+    padding: 1em;
 }
 
 section.topo-do-site .flex {
@@ -159,7 +159,7 @@ section.topo-do-site .flex {
 
 /* ESTILO DOS PROJETOS */
 section.especiliadades {
-    padding: 40px 4%;
+    padding: 1em;
     
 }
 
@@ -308,7 +308,7 @@ img {
 
 /* ESTILO DO CERTIFICADOS */
 section.certificados {
-    padding: 80px 4%;
+    padding: 1em;
     
 }
 .certificados .interface h1 {
@@ -387,7 +387,7 @@ input{
 
 /* ESTILO DO CURRICULO */
 section.curriculo {
-    padding: 80px 4%;
+    padding: 1em;
     
 }
 
