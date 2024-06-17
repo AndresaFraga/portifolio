@@ -359,9 +359,7 @@ input{
     display: none;
 }
 .slides{
-    display: flex;
-   
-    
+    display: flex;   
 }
 .slide{
     width: 25%;
@@ -499,11 +497,6 @@ footer .line-footer p a {
         text-align: center;
     }
 
-    /* ESPECIALIDADES */
-    section.especiliadades {
-        padding: 40px 8%;
-    }
-
     /* certificados */
     section.certificados {
         padding: 40px 8%;
@@ -511,6 +504,9 @@ footer .line-footer p a {
 
     .navigation{
         left: 0;
+    }
+    .content{
+        width: auto;
     }
 
     /* PORTFÓLIO */
