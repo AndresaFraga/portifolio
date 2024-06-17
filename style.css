@@ -509,6 +509,10 @@ footer .line-footer p a {
     section.certificados {
         padding: 40px 8%;
     }
+    .slide img{
+        width: 300px;
+        height: auto;
+    }
 
     .navigation{
         left: 0;
