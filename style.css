@@ -10,11 +10,10 @@ body {
     background: linear-gradient(200deg, #000000, #470433fb);
     height: 100%;
     background-size: 120% 120%;
-    width: 100%;
+    width: 500px;
     overflow-x: hidden;
     margin-left:0;
     margin-right:0;
-    padding: 500px auto;
 }
 
 .interface {
@@ -458,7 +457,7 @@ footer .line-footer p a {
     .flex {
         
         flex-direction: column;
-        padding: 30px 4%;
+        padding: 80px 4%;
         margin: 10px;
     }
 
