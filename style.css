@@ -505,13 +505,8 @@ footer .line-footer p a {
     .navigation{
         left: 0;
     }
-    .content{
-        max-width: 95%;
-        max-height: 10%;
-        
-    }
     .slide img{
-        width:400px;
+        max-width:400px;
     }
 
 
