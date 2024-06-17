@@ -383,10 +383,11 @@ input{
 #slide4:checked ~ .s1{
     margin-left: -75%;
 }
+
 /* ESTILO DO CURRICULO */
 section.curriculo {
     padding: 80px 4%;
-    box-shadow: 0 0 40% 10px #ffffff1d;
+    box-shadow: 0 0 40px 10px #ffffff1d;
 }
 
 section.curriculo .flex {
@@ -422,6 +423,7 @@ section.curriculo .flex {
 .overlay:hover {
     opacity: 1;
 }
+
 
 
 /* ESTILO DO RODAPÉ */
