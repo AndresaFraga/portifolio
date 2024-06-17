@@ -10,7 +10,6 @@ body {
     background: linear-gradient(200deg, #000000, #470433fb);
     height: 100%;
     background-size: 120% 120%;
-    width: 100%;
     overflow-x: hidden;
 }
 
@@ -500,7 +499,7 @@ footer .line-footer p a {
     }
     .logo img{
         width: 70%;
-        padding: 10px;
+        
     }
 
     .topo-do-site .img-topo-site img {
