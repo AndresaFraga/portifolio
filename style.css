@@ -559,7 +559,7 @@ footer .line-footer p a {
         text-align: center;
     }
 }
-@media(max-width: 750px){
+@media(max-width: 480px){
 
 header nav.menu-desktop ul li {
     display: inline-block;
