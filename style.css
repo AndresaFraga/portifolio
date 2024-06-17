@@ -539,17 +539,18 @@ footer .line-footer p a {
         max-width: 400px;
         max-height: 100%;
     }
-    /* PORTFÓLIO */
-    section.portfolio {
+    /* Curriculo */
+    section.curriculo {
         padding: 80px 8%;
     }
 
     .img-port {
         max-width: 350px;
-        margin: 0 0;
+        padding: 80px 8%;
+        gap: 25px
     }
     
-    section.portfolio .flex {
+    section.curriculo .flex {
        gap: 60px;
     }
 
