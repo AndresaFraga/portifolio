@@ -468,7 +468,7 @@ footer .line-footer p a {
     .menu-desktop,
     .btn-contato {
         padding: 30px;
-        flex-direction: column;
+        display: inline-block
         align-items: center;
         margin: 50px 0;
     }
