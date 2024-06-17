@@ -310,7 +310,7 @@ img {
 /* ESTILO DO CERTIFICADOS */
 section.certificados {
     padding: 80px 4%;
-    box-shadow: 0 0 40px 10px #ffffff1d;
+    
 }
 .certificados .interface h1 {
     font-size: 30px;
@@ -511,7 +511,7 @@ footer .line-footer p a {
         
     }
     .slide img{
-        width:400px ;
+        width:400px;
     }
 
 
