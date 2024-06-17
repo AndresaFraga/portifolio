@@ -41,7 +41,7 @@ form .btn-enviar input:hover {
 
 /* ESTILO DO CABEÇALHO */
 header {
-    padding: 40px 0;
+    padding: 40px 4%;
 }
 
 header>.interface {
@@ -563,7 +563,7 @@ footer .line-footer p a {
 
 header nav.menu-desktop ul li {
     display: inline-block;
-    padding: 0 0px;
+    padding: 0 8px;
     font-size: 13px;
     }
 }
