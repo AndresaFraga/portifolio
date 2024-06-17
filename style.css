@@ -452,6 +452,7 @@ footer .line-footer p a {
     /* CLASSES GERAIS */
     .flex {
         flex-direction: column;
+        align-items: center;
     }
 
     .topo-do-site .flex{
