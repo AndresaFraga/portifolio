@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+     box-sizing: border-box;
 }
 
 body {
@@ -40,7 +41,7 @@ form .btn-enviar input:hover {
 
 /* ESTILO DO CABEÇALHO */
 header {
-    padding: 40px 4%;
+    padding: 40px 10%;
 }
 
 header>.interface {
@@ -158,7 +159,7 @@ section.topo-do-site .flex {
 
 /* ESTILO DOS PROJETOS */
 section.especiliadades {
-    padding: 40px 4%;
+    padding: 40px 10%;
     box-shadow: 0 0 50px 10px #ffffff1d;
 }
 
@@ -307,8 +308,8 @@ img {
 
 /* ESTILO DO CERTIFICADOS */
 section.certificados {
-    padding: 80px 4%;
-    box-shadow: 0 0 40px 10px #ffffff1d;
+    padding: 40px 10%;
+    box-shadow: 0 0 50px 10px #ffffff1d;
 }
 .certificados .interface h1 {
     font-size: 30px;
@@ -386,8 +387,8 @@ input{
 
 /* ESTILO DO CURRICULO */
 section.curriculo {
-    padding: 80px 4%;
-    box-shadow: 0 0 40px 10px #ffffff1d;
+    padding: 40px 10%;
+    box-shadow: 0 0 50px 10px #ffffff1d;
 }
 
 section.curriculo .flex {
