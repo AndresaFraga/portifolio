@@ -506,8 +506,14 @@ footer .line-footer p a {
         left: 0;
     }
     .content{
-        width: 95%;
+        max-width: 95%;
+       max-height: 10%;
+        
     }
+    .slide img{
+        width:450px ;
+    }
+
 
     /* PORTFÓLIO */
     section.portfolio {
