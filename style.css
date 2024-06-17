@@ -500,6 +500,7 @@ footer .line-footer p a {
     }
     .logo img{
         width: 70%;
+        padding: 0 10px;
     }
 
     .topo-do-site .img-topo-site img {
