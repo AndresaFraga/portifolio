@@ -446,13 +446,11 @@ footer .line-footer p i {
 footer .line-footer p a {
     color: #fff;
 }
-
 @media screen and (max-width: 1020px) {
 
     /* CLASSES GERAIS */
     .flex {
-        flex-direction: center;
-        align-items: center;
+        flex-direction: column;
     }
 
     .topo-do-site .flex{
@@ -498,20 +496,27 @@ footer .line-footer p a {
         text-align: center;
     }
 
+    /* ESPECIALIDADES */
+    section.especiliadades {
+        padding: 40px 8%;
+    }
+
     /* certificados */
     section.certificados {
-        padding: 40px 8%;
+        padding: 80px 8%;
     }
 
     .navigation{
         left: 0;
     }
-
-        /* ESPECIALIDADES */
-    section.especiliadades {
-        padding: 40px 8%;
+    .content{
+        max-width: 95%;
+       max-height: 10%;
+        
     }
-
+    .slide img{
+        width:400px ; 
+    }
 
     /* PORTFÓLIO */
     section.portfolio {
