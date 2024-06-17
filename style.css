@@ -558,11 +558,11 @@ footer .line-footer p a {
         text-align: center;
     }
 }
-@media(max-width: 467px){
+@media(max-width: 500px){
 
 header nav.menu-desktop ul li {
     display: inline-block;
-    padding: 0 10px;
+    padding: 0 8px;
     font-size: 13px;
     }
 }
