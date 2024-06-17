@@ -309,8 +309,8 @@ img {
 
 /* ESTILO DO CERTIFICADOS */
 section.certificados {
-   padding: 80px 4%;
-    box-shadow: 0 0 40% 10px #ffffff1d;
+    padding: 80px 4%;
+    box-shadow: 0 0 40px 10px #ffffff1d;
 }
 .certificados .interface h1 {
     font-size: 30px;
@@ -385,7 +385,6 @@ input{
 #slide4:checked ~ .s1{
     margin-left: -75%;
 }
-
 /* ESTILO DO CURRICULO */
 section.curriculo {
     padding: 80px 4%;
