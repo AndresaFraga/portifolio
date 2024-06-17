@@ -159,7 +159,7 @@ section.topo-do-site .flex {
 /* ESTILO DOS PROJETOS */
 section.especiliadades {
     padding: 100px 4%;
-    box-shadow: 0 0 50px 10px #ffffff1d;
+    
 }
 
 section.especiliadades .flex {
@@ -308,7 +308,7 @@ img {
 /* ESTILO DO CERTIFICADOS */
 section.certificados {
     padding: 100px 4%;
-    box-shadow: 0 0 50px 10px #ffffff1d;
+    
 }
 .certificados .interface h1 {
     font-size: 30px;
@@ -387,7 +387,7 @@ input{
 /* ESTILO DO CURRICULO */
 section.curriculo {
     padding: 100px 4%;
-    box-shadow: 0 0 50px 10px #ffffff1d;
+    
 }
 
 section.curriculo .flex {
@@ -467,7 +467,10 @@ footer .line-footer p a {
     /* CABEÇALHO */
     .menu-desktop,
     .btn-contato {
-        display: inline-block;
+        padding: 30px;
+        flex-direction: column;
+        align-items: center;
+        margin: 50px 0;
     }
 
     /* TOPO DO SITE */
