@@ -513,6 +513,10 @@ footer .line-footer p a {
         width: 200px;
         height: auto;
     }
+    .content{
+        width: 300px;
+        height: auto;
+    }
 
     .navigation{
         left: 0;
