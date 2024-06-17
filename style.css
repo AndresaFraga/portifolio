@@ -468,7 +468,7 @@ footer .line-footer p a {
     /* CABEÇALHO */
     .menu-desktop,
     .btn-contato {
-        display: none;
+        display: inline-block;
     }
 
     /* TOPO DO SITE */
