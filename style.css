@@ -10,7 +10,7 @@ body {
     background: linear-gradient(200deg, #000000, #470433fb);
     height: 100%;
     background-size: 120% 120%;
-    width: 100%;
+    width: auto;
     overflow-x: hidden;
 }
 
@@ -508,10 +508,6 @@ footer .line-footer p a {
     /* certificados */
     section.certificados {
         padding: 40px 8%;
-    }
-    .slide img{
-        width: 200px;
-        height: auto;
     }
 
     .navigation{
